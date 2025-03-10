@@ -1,0 +1,390 @@
+/-1.14-windows.xml
+/.anaconda
+/.android
+/.cache
+/.conda
+/.condarc
+/.continuum
+/.EasyOCR
+/.eclipse
+/.gitconfig
+/.gradle
+/.idlerc
+/.insomniac
+/.ipynb_checkpoints
+/.ipython
+/.julia
+/.jupyter
+/.keras
+/.matplotlib
+/.ms-ad
+/.obs64
+/.p2
+/.ssh
+/.virtual_documents
+/.vscode
+/1 day to go.png
+/1 daytogo.png
+/1.26.0
+/1.sql
+/10.sql
+/11.sql
+/12.sql
+/12;.sql
+/13.sql
+/14.sql
+/15.sql
+/16.sql
+/17.sql
+/18.sql
+/1day.png
+/2.sql
+/20.sql
+/21.sql
+/22.sql
+/23.sql
+/26.sql
+/3.sql
+/30.sql
+/31.sql
+/35.sql
+/4.2.0
+/4.sql
+/40.sql
+/5.sql
+/6.sql
+/7.sql
+/8.sql
+/8.sql;.sql
+/9.sql
+/Aadhaar.pdf
+/AggregateScoreCard.pdf
+/AggregateScoreCard_compressed.pdf
+/Ai and Machine Learning for Coders.pdf
+/anaconda3
+/AndroidStudioProjects
+/AppData
+/archive
+/archive.zip
+/basemodel.mo
+/battery-report.html
+/bell-bottom_english-2415529.zip
+/bottle.png
+/BouncingBall1D (1).mo
+/BouncingBall1D.mo
+/BPE.ipynb
+/build
+/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb
+/C1_W2_Lab02_Multiple_Variable_Soln.ipynb
+/C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln.ipynb
+/C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb
+/C1_W2_Lab05_Sklearn_GD_Soln.ipynb
+/C1_W2_Lab06_Sklearn_Normal_Soln.ipynb
+/celestialbody.mo
+/centrifugalpump.mo
+/Check list &Information sheet (1).PDF
+/Check list &Information sheet (2).PDF
+/Check list &Information sheet (3).PDF
+/Check list &Information sheet.PDF
+/choco
+/coding the gpt without training.ipynb
+/comparision_train_10.png
+/comparision_train_100.png
+/comparision_validation_10.png
+/comparision_validation_100.png
+/Compressor.ipynb
+/CONGRTS.png
+/Contacts
+/convlstm_model_structure_plot.png
+/convlstm_model___Date_Time_2024_02_27__14_17_45___Loss_0.6470151543617249___Accuracy_0.8032786846160889.h5
+/convlstm_model___Date_Time_2024_02_27__14_35_23___Loss_0.5925841927528381___Accuracy_0.7622950673103333.h5
+/convlstm_model___Date_Time_2024_02_27__14_50_18___Loss_0.6568817496299744___Accuracy_0.7704917788505554.h5
+/convlstm_model___Date_Time_2024_02_27__15_04_12___Loss_0.6044092774391174___Accuracy_0.7786885499954224.h5
+/convlstm_model___Date_Time_2024_02_27__15_16_50___Loss_0.677298903465271___Accuracy_0.8196721076965332.h5
+/convlstm_model___Date_Time_2024_04_24__03_01_06___Loss_0.9133619070053101___Accuracy_0.8042895197868347.h5
+/convlstm_model___Date_Time_2024_04_24__07_14_28___Loss_0.9133619070053101___Accuracy_0.8042895197868347.h5
+/convlstm_model___Date_Time_2024_04_26__08_00_17___Loss_0.8877150416374207___Accuracy_0.7350993156433105.h5
+/convlstm_model___Date_Time_2024_04_26__10_40_48___Loss_0.6607356071472168___Accuracy_0.7950819730758667.h5
+/convlstm_model___Date_Time_2024_04_26__17_00_47___Loss_0.6776167154312134___Accuracy_0.7784430980682373.h5
+/Coursera Q15HHZCZEKG0.pdf
+/Crew.2024.720p.WEBRip.x264.AAC-[YTS.MX].zip
+/CT20234321924_Application.pdf
+/CT20234321924_Jinzen Kuriakose.pdf
+/CT20234321924_OL (1).pdf
+/CT20234321924_OL.pdf
+/DALL·E 2025-01-06 19.30.34 - A sleek design of AI-powered smart glasses inspired by Google Glass, featuring a lightweight frame with a small, transparent heads-up display (HUD) on.webp
+/data
+/deeplearning.mplstyle
+/demo.ipynb
+/demo.png
+/demo.py
+/deriv.mo
+/derivatives.mo
+/Desktop
+/Django.Unchained.English-WWW.MY-SUBS.CO.srt
+/dlib
+/Documents
+/Downloads
+/dssd.py
+/dsvdv.c
+/e.ipynb
+/EAadhaar_2003391012214120191224153847_31122024182317.pdf
+/eclipse
+/eclipse-workspace
+/edb_languagepack.exe
+/edb_languagepack_3.exe
+/edb_mtk.exe
+/edb_npgsql.exe
+/edb_pem_agent.exe
+/edb_pgjdbc.exe
+/edb_psqlodbc.exe
+/edb_psqlodbc.exe-20230310124318
+/edb_psqlodbc.exe-20230310140424
+/edb_psqlodbc.exe-20230310140428
+/Entire GPT architecture.ipynb
+/env1
+/ETIS.png
+/ex.ipynb
+/ex.py
+/example.mo
+/exampleFMU.fmu
+/exampleFMU.mo
+/Exploratorydataanalysis.ipynb
+/Favorites
+/Feed_Forward.ipynb
+/Files.zip
+/firstorder.mo
+/flowpipe.ipynb
+/fmj.py
+/from pyfmi import load_fmu.py
+/func.mo
+/Gap Affidavit (1).pdf
+/Gap Affidavit.pdf
+/gif_1.gif
+/global_model.ipynb
+/gpt_download3.py
+/Gradient_descent.ipynb
+/heatexchanger.mo
+/housepriceprediction.ipynb
+/Human_Action_Recogntion_using_CNN_+_LSTM.ipynb
+/HybridFMU.ipynb
+/ilovepdf_extracted-pages (2).zip
+/images
+/Imdb.ipynb
+/ingredient analyser.ipynb
+/inheritance.mo
+/Input-target pairs.ipynb
+/invite (1).ics
+/invite.ics
+/Iris.csv
+/jinzen
+/Jinzen Kuriakose.pdf
+/Jinzen Kuriakose_offcampus.pdf
+/Jinzen Kuriakose_resume.pdf
+/jinzen.db
+/JINZEN.pdf
+/Jinzen_Kuriakose_wnuBJ4n.pdf
+/JLD2.jl
+/JULIA.ipynb
+/juliacon_2023 (1).jld2
+/juliacon_2023.ipynb
+/juliacon_2023.jld2
+/juliacon_2023_helpers.jl
+/Kalkitech_1.ipynb
+/lab_utils_common.py
+/lab_utils_multi.py
+/Laurence Moroney - AI and Machine Learning for Coders_ A Programmer's Guide to Artificial Intelligence (2020, O'Reilly Media) - libgen.li.pdf
+/Links
+/LLM Architecture (1).ipynb
+/LLM Architecture (2).ipynb
+/LLM Decoding Strategies.ipynb
+/LLM Loss function.ipynb
+/LLM Pretraining.ipynb
+/LLM Training Validation Loss.ipynb
+/LLM_Data_Preprocessing.ipynb
+/Logistic_Regression.ipynb
+/LRCN_model_structure_plot.png
+/LRCN_model___Date_Time_2024_02_27__14_20_45___Loss_0.5510988235473633___Accuracy_0.8934426307678223.h5
+/LRCN_model___Date_Time_2024_02_27__14_38_31___Loss_0.5510988235473633___Accuracy_0.8934426307678223.h5
+/LRCN_model___Date_Time_2024_02_27__14_56_15___Loss_0.5510988235473633___Accuracy_0.8934426307678223.h5
+/LRCN_model___Date_Time_2024_02_27__15_07_50___Loss_0.5510988235473633___Accuracy_0.8934426307678223.h5
+/LRCN_model___Date_Time_2024_02_27__15_19_51___Loss_0.4070136845111847___Accuracy_0.8934426307678223.h5
+/LRCN_model___Date_Time_2024_04_24__07_43_22___Loss_0.47241005301475525___Accuracy_0.8713136911392212.h5
+/LRCN_model___Date_Time_2024_04_26__11_03_50___Loss_0.30296143889427185___Accuracy_0.9180327653884888.h5
+/LRCN_model___Date_Time_2024_04_26__11_06_54___Loss_0.30296143889427185___Accuracy_0.9180327653884888.h5
+/LRCN_model___Date_Time_2024_04_26__17_16_00___Loss_0.2707049548625946___Accuracy_0.940119743347168.h5
+/LRCN_model___Date_Time_2024_04_26__20_13_46___Loss_0.2707049548625946___Accuracy_0.940119743347168.h5
+/LRCN_model___Date_Time_2024_04_26__20_33_04___Loss_0.2707049548625946___Accuracy_0.940119743347168.h5
+/main.ipynb
+/Matplotlib.ipynb
+/MINI.py
+/MINIPROJECT.ipynb
+/ml-1.ipynb
+/model.pth
+/MomentOfInertia.mo
+/movie recommendation system.ipynb
+/movie recommender system.ipynb
+/movies recommendation system.ipynb
+/mufti_english-2232562.zip
+/Multi-head attention-part2.ipynb
+/Multi-head attention.ipynb
+/Multi-head-attention.ipynb
+/Music
+/myfunc.mo
+/mysql-8.0.32-winx64.zip
+/NDM -M3 -Ktunotes.in.pdf
+/NDM -M4 -Ktunotes.in (1).pdf
+/NDM -M4 -Ktunotes.in.pdf
+/NIVYN.png
+/NTUSER.DAT
+/ntuser.dat.LOG1
+/ntuser.dat.LOG2
+/NTUSER.DAT{1153fa9f-3af2-11ed-adb7-a6073251dbbc}.TxR.0.regtrans-ms
+/NTUSER.DAT{1153fa9f-3af2-11ed-adb7-a6073251dbbc}.TxR.1.regtrans-ms
+/NTUSER.DAT{1153fa9f-3af2-11ed-adb7-a6073251dbbc}.TxR.2.regtrans-ms
+/NTUSER.DAT{1153fa9f-3af2-11ed-adb7-a6073251dbbc}.TxR.blf
+/NTUSER.DAT{1153faa0-3af2-11ed-adb7-a6073251dbbc}.TM.blf
+/NTUSER.DAT{1153faa0-3af2-11ed-adb7-a6073251dbbc}.TMContainer00000000000000000001.regtrans-ms
+/NTUSER.DAT{1153faa0-3af2-11ed-adb7-a6073251dbbc}.TMContainer00000000000000000002.regtrans-ms
+/ntuser.ini
+/online exam proctoring
+/Oracle
+/original.ipynb
+/Pan Card.pdf
+/params
+/pascal.ipynb
+/Passport.pdf
+/Pictures
+/PostionalEmbedding.ipynb
+/print('jinzen kuriakose ').py
+/print('jinzen kuriakose').py
+/project
+/project1
+/revise
+/REVISE.mo
+/RLC1.mo
+/rockvsmineprediction.ipynb
+/ryan sebastian jimmy.png
+/Saved Games
+/SCIml-01.ipynb
+/SciML-02.ipynb
+/Seaborn.ipynb
+/Searches
+/Self_attension_mechanism_with_trainable_weights.ipynb
+/Seminar_Report_JINZEN_KURIAKOSE (2).pdf
+/simple_hybrid_CS.ipynb
+/simple_hybrid_ME.ipynb
+/Simplfied_attention_mechanism.ipynb
+/simulate.ipynb
+/small_movie_list.csv
+/sonar_rockvsmineprediction.ipynb
+/source
+/SpringFrictionPendulum1D (1).mo
+/SpringFrictionPendulum1D.mo
+/static
+/stickers.png
+/tempCodeRunnerFile.py
+/Tensorflow.ipynb
+/tensorflow_datasets
+/Tenth certificate.pdf
+/Tenth.pdf
+/TestCompressor.mo
+/TestDynamicTwoPhaseFlowPipe.mo
+/TestStaticCentrifugalPump.mo
+/test_videos
+/the-verdict (1).txt
+/the-verdict.txt
+/thermal.mo
+/tmdb_5000_credits.csv
+/tmdb_5000_movies.csv
+/token_embeddings.ipynb
+/Untitled-3-.png
+/Untitled-3-Recovered.png
+/Untitled.ipynb
+/Untitled1.ipynb
+/Untitled10.ipynb
+/Untitled11.ipynb
+/Untitled12.ipynb
+/Untitled13.ipynb
+/Untitled14.ipynb
+/Untitled15.ipynb
+/Untitled16.ipynb
+/Untitled17.ipynb
+/Untitled18.ipynb
+/Untitled19.ipynb
+/Untitled2.ipynb
+/Untitled20.ipynb
+/Untitled21.ipynb
+/Untitled22.ipynb
+/Untitled23.ipynb
+/Untitled24.ipynb
+/Untitled25.ipynb
+/Untitled26.ipynb
+/Untitled27.ipynb
+/Untitled28.ipynb
+/Untitled29.ipynb
+/Untitled3.ipynb
+/Untitled30.ipynb
+/Untitled31.ipynb
+/Untitled32.ipynb
+/Untitled33.ipynb
+/Untitled34.ipynb
+/Untitled35.ipynb
+/Untitled36.ipynb
+/Untitled37.ipynb
+/Untitled38.ipynb
+/Untitled39.ipynb
+/Untitled4.ipynb
+/Untitled40.ipynb
+/Untitled41.ipynb
+/Untitled42.ipynb
+/Untitled43.ipynb
+/Untitled44.ipynb
+/Untitled45.ipynb
+/Untitled46.ipynb
+/Untitled47.ipynb
+/Untitled48.ipynb
+/Untitled49.ipynb
+/Untitled5.ipynb
+/Untitled50.ipynb
+/Untitled51.ipynb
+/Untitled52.ipynb
+/Untitled53.ipynb
+/Untitled54.ipynb
+/Untitled55.ipynb
+/Untitled56.ipynb
+/Untitled57.ipynb
+/Untitled58.ipynb
+/Untitled6.ipynb
+/Untitled7.ipynb
+/Untitled8.ipynb
+/Untitled9.ipynb
+/usefunc.mo
+/usefunction.mo
+/UTIITSL_ePAN_CKIPJ5776J_02082024_104001.pdf
+/utorrent_installer.exe
+/utweb_installer.exe
+/venv
+/videoplayback.mp4
+/Videos
+/VLDC.ipynb
+/vrire.mo
+/VXCVXC.png
+/waterheating.mo
+/word tokenizer.ipynb
+/xds.png
+/xdx.png
+/xyz.png
+/__pycache__
+/__temp__.mp4
+/OneDrive
+/Application Data
+/Cookies
+/Local Settings
+/My Documents
+/NetHood
+/Recent
+/PrintHood
+/SendTo
+/Templates
+/Start Menu
